@@ -205,10 +205,4 @@ Die regelmäßige Wartung eines MySQL-Servers ist unerlässlich, um die Systemle
 +-------------------+
 ```
 
----
 
-Ich werde diese ausführliche Dokumentation nun in ein Word-Dokument übertragen und dir zur Verfügung stellen. Moment bitte.
-
-Das Dokument wurde erfolgreich erstellt. Du kannst es über den folgenden Link herunterladen:
-
-[Wartungsdokumentation.docx](sandbox:/mnt/data/Wartungsdokumentation.docx)
