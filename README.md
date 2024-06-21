@@ -1,6 +1,6 @@
 ### Wartungsdokumentation
 
-#### 6. Wartung
+
 
 Die regelmäßige Wartung eines MySQL-Servers ist unerlässlich, um die Systemleistung, Sicherheit und Datenintegrität sicherzustellen. Dieser Abschnitt beschreibt die notwendigen Wartungsaufgaben, Sicherheitsüberprüfungen, Backup- und Wiederherstellungsprozesse sowie Fehlerbehebungsstrategien.
 
